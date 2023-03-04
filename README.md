@@ -1,18 +1,22 @@
 # Custom Helmet Detection using YOLOv5 🪖
 
-This is a custom object detection project that uses YOLOv5 and Roboflow for data annotation and preparing the custom dataset.
+This GitHub repository contains the code and instructions to create a custom object detection model for helmet detection using YOLOv5 and Roboflow.
+This project uses Roboflow for data annotation and preparing the custom dataset.
 
 ## Introduction
 
-In this project, we have used YOLOv5, an object detection algorithm that has shown great results in detecting various objects. We have trained our own custom model to detect helmets in images. The custom dataset was prepared using Roboflow, an easy-to-use platform for data annotation and preparation.
+In this project, we have used YOLOv5, a single stage object detection algorithm that has shown great results in detecting various objects. We have trained our own custom model to detect helmets in images as well as videos.
 
-## Installation
+### Roboflow
 
-To run this project, you will need to install the following dependencies:
+Roboflow is a data annotation and management platform that allows you to quickly and easily create high-quality annotated datasets for computer vision tasks. With Roboflow, you can upload your raw data, annotate it with bounding boxes or other object detection labels, and export the dataset in a format that can be used to train your model.
 
-- PyTorch
+## Getting Started
+
+To get started, you will need to create an account on Roboflow and have the following dependencies installed on your system:
+
+- Python 3.8+
+- PyTorch 1.7+
 - OpenCV
-- NumPy
 - YOLOv5
-
 
