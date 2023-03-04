@@ -9,7 +9,11 @@ In this project, we have used YOLOv5, a single stage object detection algorithm 
 
 ### [Roboflow](https://roboflow.com/)
 
-Roboflow is a data annotation and management platform that allows you to quickly and easily create high-quality annotated datasets for computer vision tasks. With Roboflow, you can upload your raw data, annotate it with bounding boxes or other object detection labels, and export the dataset in a format that can be used to train your model.
+Roboflow is an end-to-end computer vision platform that helps you to 
+- Annotate, and create datasets quickly and easily with bounding boxes or other object detection labels, and export the dataset in a format that can be used to train     your model. 
+- Collaborate with your team on computer vision projects.
+- Export, train, and deploy computer vision models.  
+
 
 ## Getting Started
 
