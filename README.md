@@ -1,4 +1,4 @@
-# Custom Helmet Detection using YOLOv5
+# Custom Helmet Detection using YOLOv5 🪖
 
 This is a custom object detection project that uses YOLOv5 and Roboflow for data annotation and preparing the custom dataset.
 
