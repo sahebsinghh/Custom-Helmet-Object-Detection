@@ -15,7 +15,7 @@ Roboflow is a data annotation and management platform that allows you to quickly
 
 To get started, you will need to create an account on Roboflow and have the following dependencies installed on your system:
 
-- [Python](https://www.python.org/downloads/) 3.8+
+- [Python  3.8+](https://www.python.org/downloads/)
 - PyTorch 1.7+
 - OpenCV
 - YOLOv5
