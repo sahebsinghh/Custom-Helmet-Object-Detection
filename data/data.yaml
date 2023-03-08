@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['Helmet', 'Motorcycle', 'No_Helmet', 'Person']
+
+roboflow:
+  workspace: project
+  project: sighted
+  version: 3
+  license: Public Domain
+  url: https://universe.roboflow.com/project/sighted/dataset/3
