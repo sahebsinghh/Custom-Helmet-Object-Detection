@@ -1,4 +1,4 @@
-# Custom Helmet Detection using YOLOv5 🪖
+# Custom Helmet Detection using YOLOv8 🪖
 
 This GitHub repository contains the code and instructions to create a custom object detection model for helmet detection using YOLOv5 and Roboflow.
 This project uses Roboflow for data annotation and preparing the custom dataset.
@@ -22,5 +22,5 @@ To get started, you will need to create an account on Roboflow and have the foll
 - [Python  3.8+](https://www.python.org/downloads/)
 - [PyTorch 1.7+](https://pytorch.org/get-started/locally/)
 - [OpenCV](https://opencv.org/)
-- [YOLOv5](https://github.com/ultralytics/yolov5)
+- [YOLOv8](https://github.com/ultralytics/ultralytics)
 
