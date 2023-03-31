@@ -1,6 +1,6 @@
 # Custom Helmet Detection using YOLOv8 🪖
 
-This GitHub repository contains the code and instructions to create a custom object detection model for helmet detection using YOLOv5 and Roboflow.
+This GitHub repository contains the code and instructions to create a custom object detection model for helmet detection using YOLOv8 and Roboflow.
 This project uses Roboflow for data annotation and preparing the custom dataset.
 
 ## Introduction
