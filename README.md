@@ -5,7 +5,7 @@ This project uses Roboflow for data annotation and preparing the custom dataset.
 
 ## Introduction
 
-In this project, we have used YOLOv5, a single stage object detection algorithm that has shown great results in detecting various objects. We have trained our own custom model to detect helmets in images as well as videos.
+In this project, we have used YOLOv8, a single stage object detection algorithm that has shown great results in detecting various objects. We have trained our own custom model to detect helmets in images as well as videos.
 
 ### [Roboflow](https://roboflow.com/)
 
