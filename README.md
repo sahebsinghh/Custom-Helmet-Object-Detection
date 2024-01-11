@@ -26,3 +26,4 @@ To get started, you will need to create an account on Roboflow and have the foll
 
 ## Datasets
 - Helmet Detection Dataset : https://app.roboflow.com/helmet-dataset-aho0e/sighted/3
+- Number Plate Dataset : https://app.roboflow.com/numberplateocr/ocr-qdbjr/1
